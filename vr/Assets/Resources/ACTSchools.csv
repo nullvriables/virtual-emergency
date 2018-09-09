@@ -1,0 +1,172 @@
+id,school,lat,long
+1,Franklin Early Childhood School,-35.200461,149.141327
+2,Isabella Plains Early Childhood School,-35.428716,149.089497
+3,Lyons Early Childhood School,-35.341633,149.076243
+4,Narrabundah Early Childhood School,-35.329016,149.150698
+5,OConnor Cooperative School,-35.261994,149.120736
+6,Southern Cross Early Childhood School,-35.232767,149.038363
+7,Amaroo School,-35.163986,149.129705
+8,Caroline Chisholm School,-35.418155,149.122047
+9,Gold Creek School,-35.181275,149.100262
+10,Harrison School,-35.1975306,149.1516423
+11,Kingsford Smith School,-35.227532,149.021001
+12,Namadgi School,-35.393842,149.064431
+13,Wanniassa School,-35.394992,149.086363
+14,Canberra College,-35.340387,149.088676
+15,Dickson College,-35.249,149.153
+16,Erindale College,-35.403008,149.09717
+17,Gungahlin College,-35.185515,149.131357
+18,Hawker College,-35.245207,149.033634
+19,University of Canberra - Senior Secondary College Lake Ginninderra,-35.238771,149.073894
+20,Lake Tuggeranong College,-35.4132,149.067934
+21,Melba Copland Secondary School - Copland Campus Years 11 - 12,-35.212194,149.059163
+22,Narrabundah College,-35.336028,149.147301
+23,Ainslie School,-35.273729,149.139632
+24,Ainslie North Primary,-35.254797,149.145509
+25,Amaroo School,-35.163986,149.129705
+26,Aranda Primary,-35.255999,149.079914
+27,Arawang Primary,-35.355017,149.059719
+28,Bonython Primary,-35.431846,149.082604
+29,Calwell Primary,-35.438412,149.109254
+30,Campbell Primary,-35.290271,149.156099
+31,Chapman Primary,-35.356878,149.043079
+32,Charles Conder Primary,-35.464883,149.098449
+33,Charles Weston School,-35.322603,149.042848
+34,Charnwood-Dunlop School,-35.198682,149.036203
+35,Caroline Chisholm Primary,-35.418155,149.122047
+36,Curtin Primary,-35.331662,149.079926
+37,Duffy Primary,-35.334219,149.033656
+38,Evatt Primary,-35.20707,149.075906
+39,Fadden Primary,-35.404286,149.118175
+40,Farrer Primary,-35.378739,149.107114
+41,Florey Primary,-35.226519,149.052092
+42,Forrest Primary,-35.315084,149.126171
+43,Franklin Early Childhood School,-35.200461,149.141327
+44,Fraser Primary,-35.191795,149.043375
+45,Garran Primary,-35.344681,149.103287
+46,Gilmore Primary,-35.419488,149.135582
+47,Giralang Primary,-35.213717,149.094449
+48,Gold Creek School,-35.181275,149.100262
+49,Gordon Primary,-35.455517,149.086978
+50,Gowrie Primary,-35.413608,149.110565
+51,Harrison School,-35.1975306,149.15164
+52,Hawker Primary,-35.250284,149.034593
+53,Hughes Primary,-35.332248,149.093456
+54,Isabella Plains Early Childhood School,-35.428716,149.089497
+55,Jervis Bay Primary,-35.135012,150.703614
+56,Kaleen Primary,-35.224835,149.11404
+57,Kingsford Smith School,-35.226971,149.023361
+58,Latham Primary,-35.220157,149.034298
+59,Lyneham Primary,-35.25148,149.124974
+60,Lyons Early Childhood School,-35.341633,149.076243
+61,Macgregor Primary,-35.213112,149.012349
+62,Macquarie Primary,-35.250069,149.059393
+63,Majura Primary,-35.238509,149.15501
+64,Maribyrnong Primary,-35.235115,149.102261
+65,Mawson Primary,-35.358505,149.097655
+66,Miles Franklin Primary,-35.213295,149.066961
+67,Monash Primary,-35.414879,149.089411
+68,Mount Rogers Primary School,-35.208737,149.055621
+69,Namadgi School,-35.393842,149.064431
+70,Narrabundah Early Childhood School,-35.329016,149.150698
+71,Neville Bonner Primary School,-35.161141,149.139812
+72,Ngunnawal Primary,-35.169196,149.111784
+73,OConnor Cooperative School,-35.261994,149.120736
+74,Palmerston District Primary,-35.1975,149.120303
+75,Red Hill Primary,-35.339741,149.132893
+76,Richardson Primary,-35.428859,149.113943
+77,Southern Cross Early Childhood School,-35.232767,149.038363
+78,Taylor Primary,-35.378318,149.064261
+79,Telopea Park School,-35.313804,149.134385
+80,Theodore Primary,-35.447667,149.12396
+81,Torrens Primary,-35.370046,149.090949
+82,Turner School,-35.264995,149.126081
+83,Wanniassa Hills Primary,-35.393069,149.095898
+84,Wanniassa School,-35.394992,149.086363
+85,Weetangera Primary,-35.251826,149.047137
+86,Yarralumla Primary,-35.306948,149.103234
+87,Alfred Deakin High,-35.323849,149.094282
+88,Amaroo School,-35.163986,149.129705
+89,Belconnen High,-35.246957,149.039298
+90,Calwell High,-35.441052,149.117635
+91,Campbell High,-35.278101,149.147123
+92,Canberra High,-35.251302,149.074517
+93,Caroline Chisholm School,-35.418155,149.122047
+94,Gold Creek School,-35.181275,149.100262
+95,Harrison School,-35.1975306,149.15164
+96,University of Canberra High School - Kaleen,-35.225083,149.1012
+97,Kingsford Smith School,-35.227532,149.021001
+98,Lanyon High,-35.460389,149.09507
+99,Lyneham High,-35.252379,149.130653
+100,Melba Copland Secondary School,-35.21254,149.059794
+101,Melrose High,-35.363475,149.089434
+102,Mount Stromlo High School,-35.355429,149.05436
+103,Namadgi School,-35.393842,149.064431
+104,Telopea Park School,-35.313804,149.134385
+105,Wanniassa School,-35.395277,149.085588
+106,Alternative Education Program/Dickson College,-35.248452,149.154143
+107,Alternative Education Program/Canberra College,-35.350801,149.049754
+108,Birrigai Outdoor School,-35.444729,148.959975
+109,Black Mountain  School,-35.265224,149.112366
+110,Cranleigh School,-35.224913,149.02911
+111,Hospital School (The)/Canberra Hospital,-35.34513,149.10078
+112,Instrumental Music Program c/o Kaleen High School,-35.225083,149.1012
+113,Malkara School,-35.337447,149.09402
+114,Melrose Guidance and Counselling Service/Melrose HS,-35.363475,149.089434
+115,Turner Early Childhood Centre,-35.264995,149.126081
+116,Woden School (The),-35.326599,149.092398
+117,Northside Primary Introductory English Centre (at North Ainslie Primary School),-35.254797,149.145509
+118,Southside Primary Introductory English Centre (at Hughes Primary School),-35.332248,149.093456
+119,Secondary Introductory English Centre (at Dickson College),-35.249,149.153
+120,Belconnen Primary Introductory English Centre (at Charnwood Dunlop Primary School),-35.19876,149.03622
+121,Tuggeranong Introductory English Centre (at Wanniassa Hills Primary School),-35.39282,149.09216
+122,Gungahlin Primary Introductory English Centre (at Palmerston District Primary School),-35.1975,149.120303
+123,Blue Gum Community School,-35.249947,149.162514
+124,Brindabella Christian College - Lyneham Campus,-35.249003,149.127639
+125,Burgmann Anglican School - Valley Campus,-35.188529,149.123672
+126,Canberra Christian School,-35.356475,149.097963
+127,Canberra Girls Grammar School,-35.31699,149.115115
+128,Canberra Girls Grammar School - Junior school campus,-35.312126,149.110759
+129,Canberra Grammar School,-35.330919,149.124674
+130,Canberra Grammar School - Junior school campus,-35.332344,149.124691
+131,Canberra Grammar School - Southside - early childhood campus,-35.332344,149.124691
+132,Canberra Grammar School - Northside - early childhood campus,-35.285316,149.147091
+133,Canberra Montessori School,-35.332247,149.051068
+134,Covenant Christian School,-35.439222,149.090709
+135,Daramalan College,-35.253518,149.138695
+136,Emmaus Christian School,-35.253355,149.142818
+137,Good Shepherd Primary School,-35.166843,149.123922
+138,Holy Family Parish Primary,-35.410301,149.116552
+139,Holy Spirit Primary,-35.180246,149.101809
+140,Holy Trinity Primary,-35.327679,149.081951
+141,Islamic School of Canberra,-35.240588,149.15037
+142,Marist College Canberra,-35.357959,149.088697
+143,Merici College,-35.266525,149.137037
+144,Orana Steiner School,-35.327858,149.058949
+145,Radford College,-35.243503,149.089323
+146,Rosary Primary,-35.24641,149.154682
+147,Sacred Heart Primary,-35.366936,149.084391
+148,St Anthonys Primary,-35.394049,149.080086
+149,St Bedes Primary,-35.338847,149.128788
+150,St Benedicts Primary,-35.33483,149.148034
+151,St Clare of Assisi Primary,-35.45791,149.096766
+152,St Clares College,-35.323929,149.14765
+153,St Edmunds College,-35.32282,149.144242
+154,St Francis of Assisi Primary,-35.440799,149.119593
+155,St Francis Xavier College,-35.223979,149.040615
+156,St John the Apostle Primary,-35.225664,149.041696
+157,St John Vianneys Primary,-35.351057,149.055559
+158,St Josephs Primary,-35.259648,149.126375
+159,St Judes Primary,-35.333941,149.049819
+160,St Mary MacKillop College - Isabella Plains Campus,-35.404923,149.089258
+161,St Mary MacKillop College - Wanniassa Campus,-35.404923,149.089258
+162,St Matthews Primary,-35.240755,149.041555
+163,St Michaels Primary,-35.223474,149.109707
+164,St Monicas Primary,-35.213525,149.061289
+165,Sts Peter & Paul,-35.339376,149.092732
+166,St Thomas Aquinas Primary,-35.205121,149.029638
+167,St Thomas Mores Primary,-35.286717,149.156836
+168,St Thomas the Apostle Primary,-35.382449,149.051977
+169,St Vincents Primary,-35.254993,149.076661
+170,The Galilee School,-35.380778,149.035968
+171,Trinity Christian School,-35.408265,149.086051
